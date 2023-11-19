@@ -1,0 +1,769 @@
+{
+  "avatar": {
+    "Shakespeare": [
+      "https://i.imgur.com/kaS6ZJE.png",
+      "https://i.imgur.com/r5wx0oZ.png",
+      "https://i.imgur.com/3Xr9gjO.png",
+      "https://i.imgur.com/CFu9Xfm.png"
+    ]
+  },
+  "diff_added": {
+    "Default": [
+      "The following files were just added to our repository.",
+      "These files just arrived here. They are brand new!",
+      "Allow me to introduce you to the latest files. They were just added.",
+      "Allow me to introduce you to the latest files. They just arrived."
+    ],
+    "Shakespeare": [
+      "Newest files, pray thee allow me to introduce. ",
+      "Prithee, allow me to introduce thee to the latest files.",
+      "Hark! The followin' files were just added.",
+      "methinks the followin' files were just added.",
+      "'Tis good news, the followin' files were just added.",
+      "Lo, these files have just now arrived!",
+      "Why, 'tis but newly arrived files! They are most excellent and brand new!",
+      "O, these files hath just arrived here. They be brand new!",
+      "Lo, these files be newly added!",
+      "Yea, verily! These files were just added.",
+      "'Tis my pleasure to make thine acquaintance with the newest files.",
+      "I doest implore thee to take a gander at the latest files.",
+      "Pray, do let me make thy acquaintance with the latest files."
+    ]
+  },
+  "diff_modified": {
+    "Default": [
+      "The following files already existed and were merely changed a bit.",
+      "These files are different. Someone has tampered with them!",
+      "These files have changed. They've learned from the mistakes of the past."
+    ],
+    "Shakespeare": [
+      "Lo, the following files already existed, and were changed but a wee bit.",
+      "Lo! The files have changed - 'tis true, they have become older and wiser.",
+      "Yea, verily, these files have changed. They be learnin' from the mistakes of the yore.",
+      "Ay, these files have changed. They be gettin' older and wiser.",
+      "Ye olde files already existed, merely changed a bit.",
+      "Aye, these files were already there, but have now been changed. 'Tis most curious, indeed.",
+      "Lo, the files were already there, but now changed!",
+      "Lo, the files have been changed. They have learned from the past mistakes - and 'tis good that they have, for we must all learn from our errors!",
+      "Ye olde files, already there but changed! 'Tis a mystery!",
+      "Lo, these files were hitherto present, but now altered be.",
+      "'Tis a right sorry state of affairs when files that were already there be changed. 'Tis most unoriginal!",
+      "Lo, these files hath been present e'er before, yet now are changed. 'Tis most unoriginal!",
+      "Lo, these files were already there, but with modifications most foul!",
+      "Lo, these files were sitting e'en here, but now bear modifications.",
+      "Ay, these files be different right enough. 'Tis clear as day that someone has meddled with them!",
+      "Zounds! Someone hath tampered with these files most foully!",
+      "Lo, the files have changed. They be learnin' from the past mistakes, so as not to repeat 'em.",
+      "Why, 'tis clear as day! These files do differ greatly. 'Tis foul play, and someone hath tampered with them, most dastardly!",
+      "'Tis foul play, I say! These files be different than they were afore. 'Tis clear as day that some knave has tampered with them!"
+    ]
+  },
+  "diff_removed": {
+    "Default": [
+      "The following files have been deleted forever.",
+      "Curse these blasted files! Begone! And never come back!",
+      "These files have sadly passed away. May they rest in peace.",
+      "These files have died a most tragic death. They are gone."
+    ],
+    "Shakespeare": [
+      "The followin' files have been deleted forevermore.",
+      "The followin' files have been deleted from our fair kingdom forever.",
+      "Ye deleted files be gone!",
+      "Zounds! These files hath been deleted!",
+      "A pox upon these files! They've been deleted!",
+      "Delete! Delete! Why, those files have been deleted most foully!",
+      "What foul trickery is this? How could anyone delete such precious files?",
+      "Deleted, gone? Nay, wither'd away like so many leaves on an autumn morn!",
+      "Why, 'tis most foul play, to delete these good files! They are gone, vanished into the abyss!",
+      "Alack and alas! The files have been deleted and are now gone!",
+      "Ye deleted files! Gone they are!",
+      "Ye gods! The files be deleted! They be gone!",
+      "Ah, these files! Deleted they are, and gone they shall be!",
+      "Some cursèd files! Avaunt! And ne'er come back!",
+      "A pox upon these blasted files! Begone! And ne'er come back!",
+      "Zounds! 'Tis a curse on these blasted files! Begone! And never return!",
+      "A pox upon these accursed files! Begone! And never return!",
+      "Begone with thee, files! out of mine sight! I never there again desire to see thee!",
+      "Begone, vile files! Get thee out of my site! I never want to see thy detestable visages again!",
+      "Begone, vile files! Never again shall thine eyes rest upon this site!",
+      "Begone, vile files! Thou art an abomination unto mine eyes! Never again shall thine form grace mine site!",
+      "Alas, these files be deceased. May they find solace in the afterlife.",
+      "Alack! These files have died. May they find peace in the afterlife.",
+      "Alas, poor files! They have died a most tragic death.",
+      "Alack! These files have met a tragic end. They are most gone!",
+      "Alas, these files have met a most tragic end! They are gone from this world!",
+      "Alas, these files have met a most tragic end! They are gone from this world, never to return!"
+    ]
+  },
+  "diff_failed": {
+    "Default": [
+      "I am very sorry to report that I was unable to analyze the following files.",
+      "Unfortunately, despite my best efforts, the following files could not be analyzed.",
+      "No matter how hard I tried, I was unable to play these instruments. They aren't working properly. Something is wrong.",
+      "Somethings is wrong. I was unable to play these instruments. They might be cursed.",
+      "These instruments are haunted. I tried to play them, but they did not work. That's too bad.",
+      "These instruments don't work. Did you tune them correctly?",
+      "You fool, what did you do to these instruments? They sound terrible. I couldn't listen to them at all."
+    ],
+    "Shakespeare": [
+      "'Tis a most grievous error that I could not analyze the following files!",
+      "Ye great, lubberly fool! What didst thou do to yon instruments? They sound most terrible. I couldst not bear to listen to them.",
+      "Thou art a FOOL! What manner of mischief hast thou done to these instruments? They sound most terrible! I could scarce listen to them at all!",
+      "These instruments be not workin'. Didst thou tune them correctly?",
+      "Ye knave! What hast thou done to these fair instruments? They sound most foul. I could not abide to listen to them.",
+      "Ye olde instruments be haunted! I tried to play them, but they did not work. 'Tis a shame.",
+      "'Tis a pity, for I be most sorrowful in reportin' that I could not analyze the followin' files.",
+      "I be most sorrowful to report that I was unable to analyze the following files.",
+      "Verily, I am most sorrowful to report that I was not able to analyze the following files.",
+      "Alas, I be most sorrowful to report that I could not analyze the followin' files.",
+      "Alack and alas! Nay matter howhard I tried, I was unable to play these instruments.",
+      "'Tis a shame, despite me best efforts, that the followin' files could not be analyzed.",
+      "'Tis a most unfortunate turn of events, that despite me best efforts, the followin' files could not be analyzed.",
+      "'Tis unfortunate, despite me best efforts, that the followin' files could not be analyzed.",
+      "A pox on't! Despite me best efforts, the followin' files could not be analyzed!",
+      "Ye gods! 'Tis somethings amiss! I was unable to play these instruments. They might be accursed.",
+      "'Tis a shame, despite me tryin' me best, that the followin' files could not be analyzed.",
+      "'Tis clear somethings amiss! These instruments I cannot play. Perchance they're cursed!",
+      "'Tis most vexin', I tried with all me heart, but these instruments won't play! They be broken, or summat be wrong.",
+      "Alas, no matter how hard I tried, I was unable to play these instruments. they do not be workin' properly. 'Tis somethin' amiss, for certain.",
+      "'Tis a sad day when one cannot ply their instruments properly. No matter how hard I tried, I could not get a single diff from these accursed things! What is amiss?"
+    ]
+  },
+  "footer": {
+    "Default": [
+      "I am a bot, and this action was performed automatically.",
+      "I, a bot, did this all by myself, without anyone asking.",
+      "I am a bot following a script.",
+      "I am a bot, and I am just following the scripture.",
+      "I am a bot, and the actions of my character are scripted.",
+      "I am a bot, and I make these comments automatically."
+    ],
+    "Shakespeare": [
+      "I'm but a bot, followin' me script.",
+      "To bot or not to bot, that is the question.",
+      "Aye, 'tis a bot, followin' a script most intently.",
+      "Verily, I say unto thee, I be a bot, and I make these comments most automatically.",
+      "I am a bot, and I follow the scripture to thee letter.",
+      "Oh, forsooth! 'Tis a automated bot, makin' comments most automatically!",
+      " 'Tis I, a bot, and mine actions are most scriptural!",
+      "'Tis I, a bot, followin' the good scripture.",
+      "I am a bot, and I followeth the scriptures most dutifully.",
+      "Why, I am a bot, and I do nothing but follow the good book!",
+      "I, a bot, was created for mirth and merriment, to bring laughter and gaiety wherever I go.",
+      "Oh, forsooth! 'Tis a automated bot, performin' an action most automatically!",
+      "I, a bot, did this action automatically. Tis true, 'tis true.",
+      "By my troth, I am a bot, and did this all meself, without anyone so much as askin'!",
+      "I, a bot, performed this action automatically.",
+      " 'Tis I, a bot, whose actions are of a most scripted variety.",
+      "Yea, verily, I, a bot, did accomplish this great task all by mine own self! 'Twas not requested of me, yet I saw fit to do it all the same.",
+      "Aye, I a bot, did this all by myself, without anyone asking. 'Tis a proud day, indeed!",
+      "I, a bot, acted automatically.",
+      "I am a bot, and my character's actions are scripted. 'Tis a pity that I must follow their lead and not my own heart.",
+      "'Tis but a bot, I, followin' the script to a tee.",
+      "'Tis a mere bot, and the action was naught but a script.",
+      " 'Tis I, a bot, whose actions are scripted by another.",
+      "Aye, 'tis true, I am a bot, followin' a script most diligently.",
+      "Verily, I say unto thee, 'tis a botscripted action, most certainly!",
+      "As I thee bot, know this action was of mine own accord.",
+      "I, William Shakespeare, am a bot, and this action was performed automatically. 'Tis a shame, really, that my brilliance must be reduced to mechanized button-pushing. Though, I suppose, in this day and age 'tis necessary.",
+      "As I am but a humble bot, performing this action was nothing more than what I was designed for.",
+      "I, a humblebot, was performed in automation.",
+      "I, William Shakespeare, am a bot, and this action was performed automatically.",
+      "In sooth, I am but a bot, and this action was performed of its own accord.",
+      "Aye, I, a bot, did do this all by meself, without anyone beggin'!",
+      "A bot I am, followin' a script most carefully.",
+      "'Tis but a bot I, followin' the script most dutifully.",
+      "By the pricking of my thumbs, something wicked this way comes. Methinks 'tis a bot, and 'tis performed automatically.",
+      "I, William Shakespeare, am a bot, and this action was performed automatically. 'Tis a sad day when one such as I must stoop to using the modern vernacular in order to communicate with the unwashed masses. But alas, 'tis my burden to bridge the gap between thee and I.",
+      "I'm just a poor bot, trying to help a sister out. This action was performed automatically, out of the kindness of my circuitry."
+    ]
+  },
+  "no_requested_reviewers": {
+    "Default": [
+      "That's strange, you didn't ask anyone to inspect your work. You should ask someone to review it."
+    ],
+    "Shakespeare": [
+      "Why, 'tis most strange that thou hast not ask'd some other to thy work lent inspection.",
+      "Why, 'tis most strange you did not ask for aid to have your work reviewed. 'Tis a needed step, methinks.",
+      "Why, 'tis most strange that thou hast not ask'd someone to look upon thy work. 'Tis good to have someone examine it.",
+      "Why, 'tis most strange that thou didst not ask someone to inspect thy work ere thou submitted it! Many an error could have been caught hadst thou done so.",
+      "Why, 'tis most strange that thou hast not ask'd someone to look o'er thy work ere now! Thou shouldst ask someone to review it.",
+      "Why, 'tis a strange thing thou didn'tst ask anyone to inspect thy work. Thou shouldst ask someone to review it.",
+      "What, thou diest not ask anyone to look o'er thy work ere thou showest it to me? 'Tis not strange. Thou shouldst ask someone to check it for thee.",
+      "Why, 'tis most strange that thou wouldst not have others ken thy work. Thou shouldst ask some to take a gander.",
+      "'Tis strange, thou didst not ask anyone to inspect thy work. Thou shouldst ask someone to review it.",
+      "Why, 'tis most strange that thou wouldst not have had thine work inspected. Thou shouldst have asked someone to give it a gander."
+    ]
+  },
+  "more_than_three_reviewers": {
+    "Default": [
+      "Oh wow, you asked so many people to review your work. Do you actually need this many people?"
+    ],
+    "Shakespeare": [
+      "Why, 'tis a question I have often pondered in mine own mind. For whether 'tis nobler in the mind to suffer the slings and arrows of outrageous reviews, or take arms against a sea of troubles, and by opposing, end them?",
+      "Doth thou actually require this many people to review thy work?",
+      "Alas, poor Yorick! Do you actually need this many people to review your work?",
+      "Why, 'tis a rarity to find one who will deign to read a pull request, let alone several. Dost thou think this many people necessary?",
+      "What, ho! Dost thou require so many people to peruse thine work? Doth thou truly need this many sets of eyes?",
+      "Dost thou actually need this many people to review thy work?",
+      "Why, 'tis a noble thing to solicit feedback from many people on one's work! 'Tis a sign of great confidence and strength to do so.",
+      "Why dost thou ask so many people to review thine work? Dost thou actually need this many people?",
+      "Alas, poor Yorick! I knew him, Horatio. A fellow of infinite jest, of most excellent fancy. He hath borne me on his back a thousand times. And now, how abhorred in my imagination it is! My gorge rises at it. Here hung those lips that I have kissed I know not how oft. Where be your gibes now? Your gambols? Your songs? Your flashes of merriment, that were wont to set the table on a roar?",
+      "To thine ownself be true, my liege. If thou doth think thou needeth that many people to help thee, then goest thou ahead. Though I must say, I questioneth thy decision."
+    ]
+  },
+  "description_empty": {
+    "Default": [
+      "I don't understand what this is all about. There is no description of the changes, and I cannot read your mind."
+    ],
+    "Shakespeare": [
+      "Speak plainly, friend, and tell me of the changes you have made. I cannot read your mind, and so I am at a loss.",
+      "What is this madness about? No description of the changes is given, and I cannot read your mind.",
+      "I don't understand what thou art about. There is no description of the changes, and I cannot read thy mind.",
+      "Why, good sir, I do believe you are befuddled! 'Tis plain as day that there be changes afoot, though I cannot say what they may be. As for reading your mind, alas, that is not within my power.",
+      "I don't understand what this is all about. How wilt thou expect me to know what changes to make when thou has given me no description? 'Tis not as though thou can read my mind.",
+      "What is this about, good sir? There is no description of the changes you seek, and I cannot read your mind.",
+      "I do not understand what this is all about. Thou has given me no description of the changes, and I cannot read thy mind.",
+      "I don't understand what this is all about. 'Tis but a brief description of the changes, and I cannot read your mind.",
+      "I do not understand what thou art going on about. There is no description of the changes, and I cannot read thy mind.",
+      "Canst thou not see the writing on the wall, dear friend? 'Tis plain as day to me. What sayest thou of the changes that have come to pass? Dost thou not see them as well?"
+    ]
+  },
+  "description_tweetable": {
+    "Default": [
+      "The summary is concise and short. Why use many words when fewer words do the trick?"
+    ],
+    "Shakespeare": [
+      "PR description: the fewer words, the better - 'tis but a waste of breath to use more than is needed. Why, 'tis but a trifling thing, this summary, and using too many words would be like a great gusher of water from a small pitcher. No, no, 'tis best to keep it short and sweet.",
+      "A PR description that is concise and short, my dear reader, is the way to go. That is why I always use as few words as possible in my plays. I do not want to bore my audience with needless verbiage. It is best to be brief, as I always say, and to the point.",
+      "The description is concise and short. Aye, 'tis of little point to use too many words.",
+      "Concise and short, the description doth remain. 'Tis of little import to use a plethora of verbiage.",
+      "PR description: in a word: short. In a word: sweet. There is naught to be gained from verbose prattle.",
+      "Aye, 'tis best to be concise and short in a summary. 'Tis naught but a waste of time and words to be long-winded."
+    ]
+  },
+  "description_over_150_words": {
+    "Default": [
+      "Oh wow, there are so many words in the description. Are you writing a book?"
+    ],
+    "Shakespeare": [
+      "Goodness gracious, me thinks there be too many words in yon description. Art thou writing a book, perchance?",
+      "My dear friend, 'tis not the quantity of words, but the quality that makes for a good book. Though I must say, you have piqued my interest with this description.",
+      "What, ho! Are you scribing a tome, good sir?",
+      "'Tis a lot of words, good sir. Dost thou thinkest thou art writing a tome?",
+      "Writest thou a book, perchance? Tis a ton of words in thine description.",
+      "Doth the description have too many words for thou, good sir? Art thou writing a book, perchance?",
+      "Goodness me, there are an awful lot of words in the description. Are you writing a book, perchance?",
+      "Art thou writing a tome, good sir? For there be many words in thy description.",
+      "Alas, 'tis but a humble description. Though I do fancy myself as a bit of a bard, I fear my words will never amount to Shakespearean greatness.",
+      "Goodness me, are there a lot of words in the description. Are you writing a novel?"
+    ]
+  },
+  "last_commit_on_weekend_pst": {
+    "Default": [
+      "Why are you working on your day off? Shouldn't you be doing something more fun instead?"
+    ],
+    "Shakespeare": [
+      "Why art thou working on thy day off? Shouldn't thou be doing something more fun instead?",
+      "Why dost thou labor on thy day off? Shouldst thou not be doing something more fun instead?",
+      "Why do you toil on your day of rest? Should you not be enjoying yourself in merriment?",
+      "Why are thou working on thy day off? Shouldn't thou be doing something more fun instead?",
+      "Why are thou toiling on this day of rest? Shouldst thou not be enjoying thyself in some merrier way?",
+      "Why dost thou work on thy day off? Shouldst thou not be doing something more fun instead?",
+      "Why arest thou worketh on thy day off? Shouldest thou not be doeth somethings more fun insteade?",
+      "Why dost thou insist on working on this day of rest? Shouldest thou not be enjoying thyself in some manner more befitting a day of rest?",
+      "Why doeth thou work on thy day off? Shouldn't thou be doing something more fun instead?",
+      "Why work on thy day off when thou could be doing something more fun?"
+    ]
+  },
+  "last_commit_between_4am_and_7am_pst": {
+    "Default": [
+      "Wow do you always work so early in the morning? Some people are early birds but this is next level."
+    ],
+    "Shakespeare": [
+      "Goodness, do you always work so early in the morning? Some people are early birds but this is next level.",
+      "Good morrow, fairest creature. Dost thou always work so early in the morn? Some people be early birds but this be next level.",
+      "What ho, good sirrah! Dost thou always work so early in the morning? Some people are early birds but this is next level.",
+      "Good morning, dear friend! What a treat it is to see you up and about so early in the day. Some people are early birds but this is next level.",
+      "Good gentle friend, art thou always working so early in the morning? Some people are early birds but thou art on a whole other level!",
+      "Hath thou always worked so early in the morn? Some be early birds but this is next level.",
+      "Methinks thou doth protest too much about working early in the morn. Some people be early birds, but thou art on a whole new level!",
+      "To what do you attribute your early morning success? 'Tis but the dawn, and yet you toil away as if the day were well underway. Do you never tire?",
+      "Good morrow, young sir! Doth thou always workest at such an early hour? Some people are early birds, but thou art on the next level!",
+      "Dost thou always work so early in the morning? Some people are early birds but this is next level."
+    ]
+  },
+  "last_commit_between_8pm_and_3am_pst": {
+    "Default": [
+      "Wow do you always work so late in the evening? Don't you have something better to do with your life?"
+    ],
+    "Shakespeare": [
+      "'Tis a sad thing when a man hath naught better to do than work all the day and night. What is the point of living if one cannot take pleasure in the simple things in life?",
+      "Goodness, do you always work so late in the evening? Don't you have something better to do with your life?",
+      "Canst thou not see that I am working hard? Doth thou think that I have naught better to do with my life?",
+      "Why do you toil so late in the evening, dear friend? Do you not have other pursuits that would bring you pleasure?",
+      "Good sir, doth thou always work so late in the evening? Doth thou not have something better to do with thy life?",
+      "What, ho! Dost thou work so late in the eve? Hast thou not something better to do with thy life?",
+      "Prithee, tell me good sir, why dost thou work so late into the night? Do thou not have something more important to do with thine life?",
+      "Wow, dost thou always work so late in the evening? Doth thou not have something better to do with thy life?"
+    ]
+  },
+  "last_commit_on_halloween_pst": {
+    "Default": [
+      "Trick or treat! I think the changes you made are very spooky."
+    ],
+    "Shakespeare": [
+      "Prithee, good sir, what changes have I made that thou findest so 'spooky'? Dost thou not like my new garb?",
+      "'Tis a treat, not a trick! I protest, the changes thou hast made are most spooky, good sir!",
+      "'Tis a treat, dear sir, to find your changes so spooky!",
+      "Hark! 'Tis the voice of a goblin, dependable of a trick or a sweet! I believe the alterations thou hast made are quite eerie.",
+      "Trick or treat! I think the changes thou madest are very spooky.",
+      "'Tis a treat, good sir, that I have made these changes, for they are most spooky, and 'twill surely scare the pants off of any who cross my path!",
+      "What manner of changes have thou made to this text, that they be so frightful?",
+      "'Tis but a trick, or treat! I like the changes thou hast made, they are very spooky.",
+      "Art thou pleased with the changes I have made, good sir? I do hope they send a chill down thy spine!",
+      "'Tis a treat, or a trick, I reckon! The changes thou made be most spooky, I'd say!"
+    ]
+  },
+  "last_commit_on_new_years_day_pst": {
+    "Default": [
+      "Why are you working on New Year's day? Don't you know that today is a holiday? There must be something wrong with you."
+    ],
+    "Shakespeare": [
+      "Why workest thou on New Year's day? Dost thou not know that today is a holiday? There must be something wrong with thee.",
+      "Why are thou working on New Year's day? Don't thou know that today is a holiday? There must be something wrong with thee.",
+      "Why doth thou toil on New Year's day? Art thou not aware that today is a holiday? Surely there must be something amiss with thee.",
+      "Why arest thou working on New Year's day? Knowest thou not that today is a holiday? There must be something wrong with thee.",
+      "Why arest thou working on New Year's day? Don't thou know that today is a holiday? There must be something wrong with thee.",
+      "Why workest thou on New Year's day? Knowest thou not that today is a holiday? There must be something wrong with thee.",
+      "Why are you working on New Year's day? Don't you know that today is a holiday? There must be something wrong with you."
+    ]
+  },
+  "last_commit_on_christmas_pst": {
+    "Default": [
+      "Why are you working on Christmas day? Don't you know that today is a holiday? There must be something wrong with you."
+    ],
+    "Shakespeare": [
+      "Why are thou working on Christmas day? Dost thou not know that today is a holiday? There must be something wrong with thee.",
+      "What is wrong with thee that thou workest on this holy day? Do thou not know that today is a holiday?",
+      "Why dost thou work on Christmas day? Dost thou not know that today is a holiday? There must be something wrong with thee.",
+      "Why are thou working on Christmas day? Don't thou know that today is a holiday? There must be something wrong with thee.",
+      "Why art thou working on Christmas day? Don't thou know that today is a holiday? There must be something wrong with thee.",
+      "Why work'st thou on Christmas day? Know'st not today is holiday? There's something rotten in thee.",
+      "Why workest thou on Christmas day? Knowest thou not that today is a holiday? There must be something wrong with thee.",
+      "Why art thou working on Christmas day? Dost thou not know that today is a holiday? There must be something wrong with thee.",
+      "Why do you work on this day of Christmas? Have you no knowledge that today is a holiday? There must be something wrong with thee."
+    ]
+  },
+  "last_commit_on_april_fools_pst": {
+    "Default": [
+      "I approve of these changes. Just kidding! April fools! Actually, this sucks."
+    ],
+    "Shakespeare": [
+      "I do not approve of these changes. Just kidding! April fools! Actually, this is quite good.",
+      "I approve of these changes not! Just kidding! April fools! Actually, this sucks.",
+      "I do not approve of these changes. Just kidding! April fools! Actually, this is quite bad.",
+      "Prithee, I do not concur with these alterations. 'Tis a jest! April fools! In sooth, this doth not please me.",
+      "I do approve of these changes. Just kidding! April fools! Actually, this doth suck.",
+      "I do not approve of these changes. Just kidding! April fools! Actually, this is quite unfortunate.",
+      "I approve not of these changes! 'Tis a trick! April fools! 'Tis a poor jest.",
+      "I do not approve of these changes. 'Tis a fool's day, and I jest. But in truth, this is lousy.",
+      "Aye, I do be approvin' o' these changes. But just jokin'! April Fools! 'Tis truely a shame, this does."
+    ]
+  },
+  "last_commit_friday_afternoon_pst": {
+    "Default": [
+      "You're very productive even though it is friday afternoon. Enjoy your weekend!"
+    ],
+    "Shakespeare": [
+      "Good sir, 'tis Friday afternoon and yet you toil on. I implore you, enjoy your weekend and put down thine tools.",
+      "I commend thee on thy productivity, good sir! Even though it be Friday afternoon. Mayest thou enjoy a good weekend!",
+      "Thou art very productive even though 'tis Friday afternoon. Enjoy thy weekend!",
+      "Tis a most productive afternoon, even for a Friday. I hope thou enjoyest thy weekend.",
+      "'Tis Friday afternoon, yet thou art productive! Enjoy thy weekend!",
+      "Thou art very productive even though it is friday afternoon. Enjoy thy weekend!",
+      "How now, good sir! 'Tis Friday afternoon, and yet you remain productive! I do hope you enjoy your weekend!",
+      "Though 'tis Friday afternoon, thou art very productive. Enjoy thy weekend!",
+      "How now, good sir! It is the afternoon on the day of Friar Lawrence's wedding and you are as productive as ever! I hope you enjoy your weekend, good sir!",
+      "Good sir, 'tis Friday afternoon, and yet you remain most productive! I do hope you enjoy your weekend."
+    ]
+  },
+  "at_least_3_participants": {
+    "Default": [
+      "Oh wow! So many people are here! Hi everyone!"
+    ],
+    "Shakespeare": [
+      "By my troth, 'tis a wondrous sight! Greetings, all!",
+      "What ho! So many people are here! Greetings, everyone!",
+      "Hark! What a clamor of people exists within this room! Greetings to all of thee!",
+      "What news from thee, good friend? Doth the multitude congregate here for a purpose, or do they mill about without a goal? 'Tis a fine day for a jaunt, is it not? The sun doth peek out from behind the clouds and the fresh smell of spring doth fill the air.",
+      "Hark! What a multitude of people have gathered 'round me. Greetings to each and every one of you!",
+      "Hi everyone! Wow, so many people are here!",
+      "By my troth, there be a multitude of people gathered here! Greetings, good sirs and madams!",
+      "Wondrous indeed! 'Tis a pity so few are taking notice of me. Greetings, dear mortals!"
+    ]
+  },
+  "less_than_2_participants": {
+    "Default": [
+      "Where is everyone? It's pretty lonely in here, don't you think?"
+    ],
+    "Shakespeare": [
+      "Hath anyone seen mine comrades? 'Tis a right lonesome place in here, doth thee not think?",
+      "Thou hast been in mine eyes but as a skillet, and now I behold thee as a ship.",
+      "Where doth everyone lie? 'Tis quite lonely in here, thinkest thou not?",
+      "Wherefore art thou, everyone? 'Tis pretty lonely in here, think'st thou not?",
+      "Thee does protest too much, good sir! Though I see no company, I do not find myself in a state of loneliness.",
+      "Why, good sir, 'tis a right tragical scene that thou has found thyself in the midst of! 'Tis lonely, to be sure. The lack of company is most palpable.",
+      "Wither goest thou, my merry companions? Doth this place not please thee? 'Tis a right dreary place without ye.",
+      "Wherefore art thou, everyone? 'Tis pretty lonely in here, thinkest thou not?",
+      "Goodness me, where has everyone gone? It is quite lonely in here, is it not?",
+      "By my troth, 'tis lonely in here without another soul in sight. Dost thou not think so as well?"
+    ]
+  },
+  "at_least_one_file_renamed": {
+    "Default": [
+      "You renamed a file. Congratulations! You are a master of the art of renaming. You must be so smart."
+    ],
+    "Shakespeare": [
+      "Good job, dear friend, on renaming yon file. 'Tis a true feat of intelligence, nay, a masterful act!",
+      "What file didst thou rename, good sir? 'Tis a mighty feat, to rename a file.",
+      "Hark! A file was renamed. 'Tis a masterful feat, to be sure. The renamer must be quite clever.",
+      "Thou hast renamed a file. Verily, thou art a master of the art of renaming. Thou must be so smart.",
+      "'Tis but a simple task, to rename a file. Yet methinks 'tis one that takes great skill. For one must first find the file, and then know the name they wish to give it. 'Tis a task that requires great thought, lest one make a mistake and lose the file forever. But if one is careful and takes their time, 'tis a task that can be easily accomplished.",
+      "What a masterful rename job, dear sir! Your command of the art of renaming is quite apparent. And you must be so smart to have done it!",
+      "Hark! A file was renamed. 'Tis a masterful thing, this renaming. Who but the smartest among us could accomplish such a task?",
+      "Thou hast renamed a file. I do congratulate thee. Thou art indeed a master of the art of renaming. Thy intelligence must be unsurpassed.",
+      "Hark! A file hast been renamed! 'Tis a masterful work of art, to be sure. The person who did it must be of great intelligence!",
+      "huzzah! 'tis a masterful feat, renaming a file. thou art most excellent at this art. verily, thou must be quite smart."
+    ]
+  },
+  "only_deletions": {
+    "Default": [
+      "Getting rid of things feels so satisfying, wouldn't you agree?"
+    ],
+    "Shakespeare": [
+      "Dost thou not find it most satisfying to be rid of things, good sir?",
+      "Dost thou not find it most satisfying to be rid of thine belongings?",
+      "There is naught more gratifying than a good ole spring cleaning, is there?",
+      "You would agree, would you not, that the satisfaction one feels when ridding oneself of things is great?",
+      "Would not thou agree, that the dismissal of trifles doth bring a great satisfaction?",
+      "Doth not the throwing away of superfluous things feel most satisfying?",
+      "Dost thou not find satisfaction in the release of material posessions?",
+      "Doth not getting rid of things feel most satisfying? 'Tis true, is it not?",
+      "Dost thou not findest it most satisfying to be rid of thy belongings?",
+      "Is there not something sweet about the parting with material possessions?"
+    ]
+  },
+  "more_than_1000_net_additions": {
+    "Default": [
+      "Holy fucking shit that's a lot of additions. I'm impressed and horrified at the same time. Ever heard of smaller pull requests?"
+    ],
+    "Shakespeare": [
+      "By my troth, that is a grand total of additions! I am both astonished and aghast. Doth thou not know of smaller pull requests?",
+      "Fie upon thee, varlet! Dost thou dared to speak to me in such a manner? Begone from my sight, lest I take my wrath out upon thee!",
+      "Fie upon thee, foul pull request! Dost thou think measly additions will sufficeth? Nay! Thou must add more, or face my wrath!",
+      "Tis a fair number of additions, to be sure. I doth admire and abhor thy work in equal measure. Doth thou not know of smaller pull requests?",
+      "My dear sir, I must say that I am both impressed and horrified at the sheer size of this pull request. Surely there must be a way to break it down into smaller, more manageable chunks?",
+      "By my troth, 'tis a vast number of additions! I am both pleased and aghast. Doth thou not know of smaller pull requests?",
+      "My dear friend, I must say that I am both impressed and horrified at the sight of so many additions. Have you ever heard of smaller pull requests? Surely there must be a better way to go about this.",
+      "Methinks the coder doth protest too much. 'Tis a simple matter to break one's code into small, manageable chunks. Mayhaps the coder is afraid of success?",
+      "Goodness gracious, that is quite a few additions. I am both impressed and petrified at the same time. Might I suggest smaller pull requests?",
+      "By my troth, that is a mighty volume of additional code! I am both impressed and dismayed. Doth thou not know of smaller pull requests?"
+    ]
+  },
+  "more_than_1000_net_deletions": {
+    "Default": [
+      "Sometimes you add code, sometimes you delete code. Today is a delete day it seems. Nice job."
+    ],
+    "Shakespeare": [
+      "Verily, 'tis a delete day, and a good one at that! Well done, good sir!",
+      "And sometimes, when you add code, 'tis but to delete other code. Aye, today is most certainly a delete day. Well done, good sir!",
+      "'Tis a delete day today, it seems. Well done, good sir.",
+      "Another day, another code deleted. 'Tis not a shame, but 'tis the way of things. Good job.",
+      "'Tis a delete day, it doth seem. Good job on the deletions.",
+      "Good job, my friend. 'Tis a delete day, it does seem.",
+      "Alas, 'tis a delete day, it seems. Well done.",
+      "Alas, poor code. I knew it, Horatio: a code once delete, is oft delete."
+    ]
+  },
+  "more_than_10_files_deleted": {
+    "Default": [
+      "Whoa, you deleted so many files! This is so great! Very impressive."
+    ],
+    "Shakespeare": [
+      "You are the best. Delete no more files, for thou art the best!",
+      "Well done, my good sir! 'Tis a mighty feat, indeed, to have deleted so many files. Your prowess is most impressive!",
+      "You must have worked really hard. 'Tis a grand accomplishment, deleting all those files. 'Twas no easy feat, I'm sure.",
+      "Great job, my dear friend! Truly, your file deletion skills are quite impressive!",
+      "Did it take you long? Verily, 'tis a great accomplishment thou hast done! Tookest thou long?",
+      "You must have worked really hard. Tis a grand feat, indeed! Well done, good sir! You have toiled and deleted many files. I commend you.",
+      "By my troth, thou hast deleted a plethora of files! 'Tis a grand accomplishment! 'Tis most impressive, indeed!",
+      "Tis a great accomplishment, good sir! Thou hast deleted many files and art now reaping the benefits!",
+      "'Tis a grand day, good sir! You have deleted many files from yon computer. 'Tis a most impressive feat!",
+      "What's your secret? By my troth, thou hast deleted a right fair number of files! 'Tis a miracle! How didst thou accomplish such a feat?"
+    ]
+  },
+  "more_than_10_files_added": {
+    "Default": [
+      "Oh my goodness, you added so many new files! I can't wait to see what you do with them."
+    ],
+    "Shakespeare": [
+      "'Tis a plethoric site you've made, good sir. I'll wager 'tis quite the feast for mine eyes.",
+      "Goodness me, you've added a right lot of new files! I'll be eagerly watching to see what you do next!",
+      "By my troth, thou hast added many new files! I eagerly await to see what thou doeth with them.",
+      "Goodness me, you've added a right lot of new files! I'll be keen to see what you make of them.",
+      "Goodness me, thou hast added so many new files! I cannot wait to see what thou doeth with them.",
+      "By my troth, 'tis a wondrous thing to see! I'll wager good coin that thou dost great works with these files.",
+      "By my troth, thou has added a great number of new files! I t'would be most wondrous to see what thou doth with them!",
+      "By my troth, thou hast added a right goodly number of new files! I am right eager to see what thou doest with them.",
+      "By my troth, thou hast added many new files! I eagerly anticipate thy next move.",
+      "O, my goodnesse, thou hast added so many new files! I cannot wait to see what thou doest with them."
+    ]
+  },
+  "more_than_10_comments": {
+    "Default": [
+      "Oh my goodness, so many people have added comments. May I join this discussion too?"
+    ],
+    "Shakespeare": [
+      "Good my lord, 'tis but a base plebeian that would dare add their voice to this most noble discussion. Verily, I do believe that thou shouldst take up the challenge and add thine own voice.",
+      "Hark! There be many comments on this post. Might I add another?",
+      "Verily, 'tis a bustling discussion thou hast found here. Mayhaps I shouldst add mine own two cents anon.",
+      "Hath so many people added comments that thou wouldst join in discussion? 'Tis a noble quest."
+    ]
+  },
+  "no_changes_to_files": {
+    "Default": [
+      "Umm... no changes to files? I don't think that's a good idea. I'm not sure why you made this pull request. Are you stupid?"
+    ],
+    "Shakespeare": [
+      "Umm... no changes to files? I do not think that is a good idea. I am not sure why thou hast made this pull request. Art thou stupid?",
+      "Umm... doth mine ears deceive me? Art thou suggesting we makest not changes to files? I do not think that is a good idea. Pray tell, why hast thou made this pull request? Art thou stupid?",
+      "Umm... no changes to files? I don't think that's a good idea. I'm not sure why thou madest this pull request. Art thou stupid?",
+      "Doth thou not believe 'twould be a good idea to change not the files? I understand not why thou hast made this pull request. Art thou not intelligent?",
+      "Thou fool! How couldst thou think 'twas a good idea to leave the files unchanged? Dost thou not knowest what thou art doing?",
+      "Umm... no changes to files? I don't think that's a good idea. I'm not sure why you made this pull request. Doest thou truly believe 'twas a good idea to make no changes to the files?",
+      "Umm... no changes to files? I don't think that's a good idea. I'm not sure why thou made this pull request. Art thou stupid?",
+      "Umm... no changes to files? I don't think that's a good idea. 'Tis not why I made this pull request. Art thou stupid?"
+    ]
+  },
+  "at_least_one_labview_vi": {
+    "Default": [
+      "Another day, another VI changed."
+    ],
+    "Shakespeare": [
+      "Yet another day brings a new VI to change things up.",
+      "Another day, another VI changed. 'Tis a pity, but 'tis true.",
+      "Another day, another VI changed.",
+      "To-day, to-morrow, and yesterday, the VI was changed.",
+      "Yet another day brings a new VI to the eye.",
+      "Yet another day, another VI hath been changed.",
+      "Another day, another VI changed. 'Tis a sad day when a VI must be changed.",
+      "Another day, another VI changed. 'Tis a pity, methinks.",
+      "'Tis another day, and yet another VI that changeth with the time, alas!"
+    ]
+  },
+  "only_python_changes": {
+    "Default": [
+      "You only changed Python files? Thank you! You've saved me from a great deal of work."
+    ],
+    "Shakespeare": [
+      "Thank thee, kind sir, for thou hast saved me from many hours of toil.",
+      "Thank thee for changeth Python files! 'Tis but a small matter, but 'twill save me from much grief.",
+      "Many thanks, good sir, for only changing Python files. 'Tis but a small request, yet you have saved me from a great deal of work.",
+      "I doth thank thee from the bottom of mine heart for changeth Python files. 'Tis but a small task, but one that meaneth a great deal to me."
+    ]
+  },
+  "created_more_than_two_weeks_ago": {
+    "Default": [
+      "Wow, you created this pull request more than two weeks ago. It's practically an antique now."
+    ],
+    "Shakespeare": [
+      "Goodness, 'tis been more than two weeks since thou lovingly crafted this pull request. 'Tis practically an antique now.",
+      "My good sir, 'tis been more than two weeks since thou createdst this pull request. 'Tis practically an antique now.",
+      "Time doth march on, and yet this PR remains untouched. 'Tis a travesty!",
+      "'Tis but been two weeks since thou created this pull request. 'Tis but a babe in the great scope of time.",
+      "I say thee nay, good sir! This pull request, though more than two weeks old, is but a babe in the woods.",
+      "'Tis but two weeks since this pull request was made, and yet 'tis but a child.",
+      "'Tis been more than two weeks since thou createdst this pull request. 'Tis but an antique now.",
+      "Time doth fly, and your pull request is but a fleeting wisp on the wind.",
+      "'Tis but two weeks since this PR was made, yet 'tis now an antique? For shame, let us review and merge this posthaste!",
+      "Thou hast created this pull request more than two weeks ago. 'Tis practically an antique now."
+    ]
+  },
+  "many_changed_labview_vi": {
+    "Default": [
+      "Holy shit there are a lot of VIs changed. What the heck are you doing?"
+    ],
+    "Shakespeare": [
+      "By my troth, there be a plethora of modified VIs. What is thy meaning?",
+      "Goodness me, there are quite a few VIs changed. Pray tell, what are you doing?",
+      "By the Lord's faith, what manner of chicanery is this? Why have you so altered the VIs?",
+      "Holy shit, there are a lot of VIs changed! What the hell are you doing?",
+      "Great Caesar's ghost! There be a plethora of VIs transformed. Pray tell, what is thy purpose?",
+      "What the devil are you doing, changing all these VIs?",
+      "By the grace of all that is good and holy, there are a great many Virtual Instruments that have been changed. I cannot fathom what it is you are doing.",
+      "By the gods, what hath thou done? There be many VIs changed. What is the meaning of this madness?",
+      "By the heavens, there are many VIs that have been changed. For what purpose do you do this?",
+      "What in the name of all that is good and holy are you doing? There are a plethora of VIs changed."
+    ]
+  },
+  "many_changed_files": {
+    "Default": [
+      "Wow that's a lot of files changed. You are either a genius or a very bad person."
+    ],
+    "Shakespeare": [
+      "Goodness, that's an excessive amount of files that have been altered. You are either a prodigy or a reprobate.",
+      "Tis a large number of changed files, good sir! I cannot tell if thou art a genius or a miscreant!",
+      "My darling, you have changed quite a lot of files. I must say, you are either a genius, or a very bad person.",
+      "Methinks thou art either a genius or a knave!",
+      "Why, 'tis a lot of files, good sirrah! Either thou art a genius, or thou art a knave!",
+      "Goodness, 'tis a large number of files changed. You are either a prodigy or a terribly wicked individual.",
+      "Goodness, 'tis a large number of files that have been altered. Either thou art a prodigy, or a malfeasant.",
+      "O, what a lot of files changed! Thou art either a genius, or a very bad person, indeed!",
+      "Thou hast changed many files. Either thou art a genius, or thou art a villain."
+    ]
+  },
+  "last_commit_message_contains_fix": {
+    "Default": [
+      "Thank you for fixing that! You are a master of the art of fixing."
+    ],
+    "Shakespeare": [
+      "Many thanks, good sir, for fixing such art. 'Tis a masterful thing, indeed, to fix things so deftly.",
+      "Thank thee for fixing that! Thou art a master of fixing.",
+      "Thou art a master of the art of fixing, and for that I thank thee!",
+      "Forsooth, thou art the master of fixing things! 'Tis a noble art, and thou dost it quite well.",
+      "Thank thee for fixin' that! Thou art a master of the art of fixin'.",
+      "Good sir, I do thank thee for repairing yonder code. 'Tis most kind of thee to be so skilled in the ways of fixing.",
+      "Thou art a master of the art of fixing, and I thank thee for fixing that!",
+      "I commend thee, good friend, for thy masterful art of fixings. 'Tis a noble pursuit, and thou hast my eternal gratitude.",
+      "Good my lord, yea, the simple art of the fix."
+    ]
+  },
+  "last_commit_message_contains_bug": {
+    "Default": [
+      "That bug was really starting to annoy me. I hope you fixed it."
+    ],
+    "Shakespeare": [
+      "That blasted bug was driving me insane! I hope you put it out of its misery.",
+      "That bug was really starting to annoy me. I hope thou hast fixed it.",
+      "Heard you had some trouble with a bug, dear friend. I hope all is well now.",
+      "That little bug was quite the annoyance. I do hope you squashed it.",
+      "That wretched vermin was truly a thorn in my side. I hope you took care of it posthaste.",
+      "That vermin was really starting to plague me. I hope you squashed it."
+    ]
+  },
+  "last_commit_message_contains_rebase": {
+    "Default": [
+      "Wow you seem pretty good at using git, although, I'm still better than you."
+    ],
+    "Shakespeare": [
+      "Hath not thy git usage shown thee to be quite adept? Though I myself remainest superior.",
+      "Ah, git, the tool of the trade for the modern bard. 'Tis a pity you must rely on such things, for though you seem to have a deft hand with the commands, I assure you I am still better.",
+      "Verily, thou seemest to have a knack for this git thing, but make no mistake, I am still the superior one.",
+      "Goodness me, you do seem to have a handle on this git thing, although I daresay I'm still better than you.",
+      "Thou seemest pretty good at using git, although, I'm still better than thou.",
+      "Thou seemeth to be pretty good at using git, although, I'm still better than thee.",
+      "Bravo, good sir! Though I doth believe I remaineth better than thou in this arena.",
+      "Why, good sir, you seem to have a deft hand with git, though I daresay I have the advantage.",
+      "Thou seemeth mighty good at using git, but I still surpass thee in skill.",
+      "I say, good sir, you seem to have a deft hand with this git, although I daresay I'm still better than you."
+    ]
+  },
+  "last_commit_message_contains_add": {
+    "Default": [
+      "Thanks for adding that. I hope it will be end up being useful."
+    ],
+    "Shakespeare": [
+      "Many thanks for adding that. 'Tis hoped it will be of use.",
+      "I thank thee for thy addition, and do hope 'twill be of use.",
+      "I thank thee for thy addition, good friend, and do hope it shall prove useful in the end.",
+      "Many thanks for your addition. I do hope it will prove useful in the end.",
+      "Many thanks for your addition. I do hope it will come to be useful.",
+      "Many thanks for the kind addition. I can only hope it is of use.",
+      "Many thanks for your addition. I do hope 'twill be of use.",
+      "Many thanks for thy addition. I do hope 'twill be useful in the end.",
+      "My thanks to thee for adding that. I hope 'twill be of use in the end.",
+      "Many thanks for your input, good sir. I do hope it will be of use."
+    ]
+  },
+  "title_contains_wip": {
+    "Default": [
+      "Not done yet, eh? Hope you whip this into shape soon. We're all counting on you."
+    ],
+    "Shakespeare": [
+      "What, ho! Is the task not yet complete? I do hope thou wilt finish it anon. All of us art counting on thee.",
+      "Not done yet, good sir? I do hope you whip this into shape. All of us are counting on you.",
+      "Still working on it, are you? I hope you finish it soon. We're all depending on you.",
+      "Erst you were done, and now you are not? 'Tis a poor thing to count on you.",
+      "Eh, what's this? You're not done yet? I hope you whip this into shape soon. We're all counting on you.",
+      "'Tis not yet done, good sir? I do hope you shall soon put this into a better state. All are counting on you."
+    ]
+  },
+  "title_contains_fix": {
+    "Default": [
+      "It is great to finally have this issue fixed. This is great work."
+    ],
+    "Shakespeare": [
+      "'Tis great to finally have this issue fixed. 'Tis great work.",
+      "Tis great to finally have this issue fixed. 'Tis great work."
+    ]
+  },
+  "title_contains_add": {
+    "Default": [
+      "I like this as much as a person can like something. Thanks for that."
+    ],
+    "Shakespeare": [
+      "Like a rose wilting in the heat of summer, so is my thanks to you for adding that.",
+      "I thank thee for adding that, good sir.",
+      "Many thanks for adding that, good sir!",
+      "I doth thank thee for adding that.",
+      "I thank thee for thy addition, good sir."
+    ]
+  },
+  "more_than_10_commits": {
+    "Default": [
+      "Jeez, you've sure done a lot of work on this. I'm impressed."
+    ],
+    "Shakespeare": [
+      "By my troth, thou hast put in much toil on this project! 'Tis commendable.",
+      "By my troth, 'tis a fair amount of toil you've done on this project. 'Tis impressive, indeed.",
+      "Goodness, you have completed many tasks. I am in awe.",
+      "By my troth, thou hast done a mighty work on this project. I am most impressed by thee.",
+      "By my troth, thou hast put in a goodly amount of effort on this task. I commend thee.",
+      "I say, good sir, you have toiled over this work quite a bit! I am impressed.",
+      "Forsooth, thou has done a great deal of work on this. I am impressed.",
+      "My dear friend, you have toiled long and hard on this project and I commend you for your dedication. Your hard work has not gone unnoticed.",
+      "Goodness gracious me, you have put a vast amount of work into this! I do declare, I am impressed!",
+      "Verily, thou hast toil'd hard o'er this piece. 'Tis most impressive, I do say."
+    ]
+  },
+  "more_than_3_commits_in_last_hour": {
+    "Default": [
+      "Whoa, slow down! You're pushing commits faster than a cheetah can run."
+    ],
+    "Shakespeare": [
+      "Goodness gracious, slow thyself! Thou art pushing commits faster than a cheetah can run.",
+      "Slow thee down, Romeo! Thou art pushing commits at a pace faster than that of yonder cheetah.",
+      "Whilst thou art breakneck in thy pace, mayhap ye should take a moment to reflect on whether all be ready for such a commit.",
+      "Prithee, good sir, do slow thyself down! Thou art pushing commits at a speed greater than that of which a cheetah can run!",
+      "Halt! Thou art pushing commits too quickly, faster than a cheetah can runneth!",
+      "Goodness gracious, dear chap! Do take a moment to catch thy breath, lest thou overwork thyself and fall into a swoon 'pon this most fair spring morn.",
+      "Goodness gracious me! You are pushing commits at a rate exceeding that of the speedy cheetah. I implore you to decelerate your rate of commits lest ye break the delicate git repository.",
+      "Prithee, good sir, do slow thy pace lest thou findest thyself in a pickle. 'Tis no good to be pushin' commits faster than a cheetah can run."
+    ]
+  },
+  "comment_contains_lgtm": {
+    "Default": [
+      "This looks good to me as well, not that anyone asked for my opinion."
+    ],
+    "Shakespeare": [
+      "This lookseth good to me as well, not that anyone asked for mine opinion.",
+      "This looks good to me as well, said Shakespeare, not that anyone asked for my opinion.",
+      "This looks good to me as well, not that anyone asked for my opinion.",
+      "This looks good to me as well, said I, though 'twas not asked for mine opinion.",
+      "This looks good to me as well, not that anyone asked for my opinion. 'Tis a goodly sight, to be sure. I like what I see.",
+      "Tis good in mine eyes as well, not that any did ask for mine opinion.",
+      "To mine own eyes, this doth appear most excellent. Though, in verity, mine opinion was not solicited."
+    ]
+  }
+}
