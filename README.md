@@ -1,7 +1,15 @@
 # Jenkins LabVIEW CI
 
 Jenkins shared library for continuous integration with LabVIEW and G-CLI.
-Includes scripts for static tests (VI Analyzer), unit tests (JKI Caraya), and app builds (executable/installer). CICD steps are outlined in the Jenkinsfile
+Includes scripts for static tests (VI Analyzer), unit tests (JKI Caraya), and app builds (executable/installer).
+
+***
+
+## :warning: THIS PROJECT IS CURRENTLY A WORK IN PROGRESS :warning:
+
+:construction_worker: The library in its current state is non-functional and serves as example code only :construction:.
+
+***
 
 Loading this library in a Jenkinsfile:
 
