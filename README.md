@@ -80,3 +80,7 @@ LabVIEW Application Builder (requires PRO license) is used to build applications
             }
         } // Build LabVIEW Application Installer
 ```
+
+## References
+
+[Jenkins Environment Variables](https://ci.eclipse.org/webtools/env-vars.html/)
