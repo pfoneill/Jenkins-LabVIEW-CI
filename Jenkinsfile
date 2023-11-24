@@ -1,5 +1,6 @@
-@Library(['github.com/pfoneill/Jenkins-LabVIEW-CI@main']) _
-import com.labviewbuilder
+// @Library(['github.com/pfoneill/Jenkins-LabVIEW-CI@main']) _
+// import com.labviewbuilder
+// TODO: eventually load and call the functions from this library.
 
 pipeline {
     parameters {
@@ -31,13 +32,17 @@ pipeline {
 
     stages {
         stage ('Build LabVIEW Application') {
-            echo "Building ${APPNAME} ${BUILDSPEC}"
-            pwsh "${STEPS}\\Build.ps1 -ProjectPath ${LVPROJ} -BuildSpec ${BUILDSPEC} -DestinationDir ${BUILD_DIR}\\${BUILDSPEC} -VersionString '0.0.0'"
+            steps {
+                echo "Building ${APPNAME} ${BUILDSPEC}"
+                pwsh "${STEPS}\\Build.ps1 -ProjectPath ${LVPROJ} -BuildSpec ${BUILDSPEC} -DestinationDir ${BUILD_DIR}\\${BUILDSPEC} -VersionString '0.0.0'"
+            }
         }
 
         stage ('Build LabVIEW Installer') {
-            echo "Building ${APPNAME} ${INSTALLERSPEC}"
-            pwsh "${STEPS}\\Build.ps1 -ProjectPath ${LVPROJ} -BuildSpec ${INSTALLERSPEC} -DestinationDir ${BUILD_DIR} -VersionString '0.0.0'"
+            steps {
+                echo "Building ${APPNAME} ${INSTALLERSPEC}"
+                pwsh "${STEPS}\\Build.ps1 -ProjectPath ${LVPROJ} -BuildSpec ${INSTALLERSPEC} -DestinationDir ${BUILD_DIR} -VersionString '0.0.0'"
+            }
         }
     }
 
