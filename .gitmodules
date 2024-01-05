@@ -1,0 +1,4 @@
+[submodule "resources/labview-ci"]
+	path = resources/labview-ci
+	url = https://github.com/pfoneill/LabVIEW-CI.git
+    branch = main
